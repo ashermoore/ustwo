@@ -1,0 +1,10 @@
+android: {
+    serverIP: 127.0.0.1,
+    handset: samsung,
+    port: 4723,
+    status: 1,
+    platformName: Android,
+    appActivity: com.ustwo.sample.CommitListActivity,
+    appPackage: com.ustwo.sample,
+    app: /Users/asher/Documents/ustwo/app-sample.apk
+}
